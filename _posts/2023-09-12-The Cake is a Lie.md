@@ -8,5 +8,3 @@ tags: [cake]
 Because that's what GLADOS said.
 
 ![](https://wow.zamimg.com/uploads/screenshots/small/103603.jpg)
-
-End of the Line.

@@ -78,6 +78,8 @@ img_cdn: https://cdn.jsdelivr.net/gh/joonery/joonery.github.io@master
 # the avatar on sidebar, support local or CORS resources
 avatar: assets/img/uwu.png
 
+plugins: [jekyll-youtube]
+
 # boolean type, the global switch for TOC in posts.
 toc: true
 
