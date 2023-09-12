@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: SAFEHOUSE # the main title
 
-tagline: None # it will display as the sub-title
+tagline: memo # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -73,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://cdn.jsdelivr.net/gh/joonery/joonery.github.io@master
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/uwu.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
